@@ -1,0 +1,54 @@
+body{
+	background-color: black;
+}
+
+.master{
+	background-color: #fff;
+	margin-top: 50px;
+	margin-right: 400px;
+	margin-bottom: 50px;
+	margin-left: 400px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+}
+
+.header{
+	display: block;
+	height: 50px;
+}
+.header .iconos{
+	float: left;
+	display: block;
+}
+.iconos i{
+	float: left;
+}
+.iconos h3{
+	font-size: 12px;
+	float: right;
+}
+.header .fa-ellipsis-v{
+	float: right;
+	padding-right: 10px;
+	padding-top: 10px;	
+}
+
+.social-master{
+	height: 50px;
+}
+
+.social-master .social{
+	display: block;
+	float: left;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.social-master .social-der{
+	float: right;
+	display: block;
+	padding-right: 10px;
+	padding-top: 10px;
+}
